@@ -1,0 +1,10 @@
+c:\Users\user\documents\visual studio 2015\Projects\webapi\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+c:\Users\user\documents\visual studio 2015\Projects\webapi\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+c:\Users\user\documents\visual studio 2015\Projects\webapi\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+c:\Users\user\documents\visual studio 2015\Projects\webapi\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+c:\Users\user\documents\visual studio 2015\Projects\webapi\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\user\documents\visual studio 2015\Projects\webapi\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+c:\Users\user\documents\visual studio 2015\Projects\webapi\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\user\documents\visual studio 2015\Projects\webapi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+c:\Users\user\documents\visual studio 2015\Projects\webapi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+c:\Users\user\documents\visual studio 2015\Projects\webapi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
